@@ -88,7 +88,7 @@ int main()
 }
 ```
 ## OUTPUT
-![Screenshot from 2025-05-07 23-24-14](https://github.com/user-attachments/assets/c61dbbf7-37a7-4a69-9111-601f63004564)
+
 
 # RESULT:
 The programs are executed successfully.
