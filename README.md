@@ -1,8 +1,7 @@
 # Linux-IPC-Message-Queues
 Linux IPC-Message Queues
 
-NAME : AASHIKA JAIN.G
-REG.NO : 212224110001
+
 
 # AIM:
 To write a C program that receives a message from message queue and display them
